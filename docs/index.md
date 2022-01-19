@@ -1,20 +1,14 @@
-\_
 
-\_ [Learning Center Home](http://learning.cyverse.org/)
+[Learning Center Home](http://learning.cyverse.org/)
 
 **GUIDE NAME**
-==============
+
 
 Goal
 ----
 
 ------------------------------------------------------------------------
 
-::: {.toctree maxdepth="2"}
-Tutorial home \<self\> First Step \<step1.rst\> Step Two and/or Final
-Step \<final\_step.rst\> Delete this example guide page
-\<example\_directives\_delete.rst\>
-:::
 
 Guide Maintainer(s)
 -------------------
